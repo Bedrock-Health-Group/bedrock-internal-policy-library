@@ -1,4 +1,4 @@
----
+Ôªø---
 title: "Conflict of Interest Policy"
 policy_id: "gov-byl-v1.2"
 version: "1.2"
@@ -49,13 +49,13 @@ source_document: "CONFLICT_OF_INTEREST.pdf"
 
 ## 1. Purpose
 
-Bedrock Health Group (ìBHGroupî) is a charitable, tax-exempt organization whose credibility, community trust, and IRS standing depend on strict adherence to ethical standards. Because BHGroup operates within healthcare compliance, public health systems, safety-net ecosystems, and federally regulated environments, the potential for perceived or actual conflicts must be handled with exceptional rigor.
+Bedrock Health Group (‚ÄúBHGroup‚Äù) is a charitable, tax-exempt organization whose credibility, community trust, and IRS standing depend on strict adherence to ethical standards. Because BHGroup operates within healthcare compliance, public health systems, safety-net ecosystems, and federally regulated environments, the potential for perceived or actual conflicts must be handled with exceptional rigor.
 
 The purpose of this Conflict of Interest Policy is to ensure that all individuals entrusted with governance, review authority, advisory input, decision-making power, or operational influence conduct themselves in a manner that protects BHGroup from private benefit, undue influence, and jeopardy to its exempt status.
 
-This policy establishes the standards, expectations, processes, and safeguards that govern how conflicts are identified, disclosed, evaluated, and managed. It applies to all individuals serving in Bedrockís governance ecosystem, including the Board of Trustees, Board Officers, Advisory Board, Advisory Review Council (ARC), Community Funding Authorization Committee (CFAC), Governance, Ethics & Compliance Committee (GECC), and executive leadership.
+This policy establishes the standards, expectations, processes, and safeguards that govern how conflicts are identified, disclosed, evaluated, and managed. It applies to all individuals serving in Bedrock‚Äôs governance ecosystem, including the Board of Trustees, Board Officers, Advisory Board, Advisory Review Council (ARC), Community Funding Authorization Committee (CFAC), Governance, Ethics & Compliance Committee (GECC), and executive leadership.
 
-This policy is designed to ensure that decisions are made solely in furtherance of BHGroupís mission, free from personal bias or competing interests, and consistent with federal tax law, state nonprofit law, and Bedrockís internal compliance framework.
+This policy is designed to ensure that decisions are made solely in furtherance of BHGroup‚Äôs mission, free from personal bias or competing interests, and consistent with federal tax law, state nonprofit law, and Bedrock‚Äôs internal compliance framework.
 
 ## 2. Scope and Applicability
 
@@ -65,7 +65,7 @@ Because Bedrock engages with vulnerable providers, federal systems, and regulate
 
 ## 3. Definitions
 
-A **conflict of interest** exists whenever an individualís personal, professional, financial, or relational interest could compromise their ability to act solely in the best interest of BHGroup. Conflicts may be actual, potential, or perceived.
+A **conflict of interest** exists whenever an individual‚Äôs personal, professional, financial, or relational interest could compromise their ability to act solely in the best interest of BHGroup. Conflicts may be actual, potential, or perceived.
 
 An **Interested Person** is any individual subject to this policy who holds a role that influences BHGroup decisions.
 
@@ -111,7 +111,7 @@ Conflict determinations consider whether the interest:
 - Presents a risk of bias or undue influence.
 - Creates the appearance of impropriety.
 - Intersects with financial or organizational benefit.
-- Could compromise BHGroupís compliance integrity.
+- Could compromise BHGroup‚Äôs compliance integrity.
 - Could undermine fairness in the Cornerstone Access Fund review process.
 - Conflicts with IRS private benefit restrictions.
 
@@ -151,7 +151,7 @@ GECC maintains a permanent ledger of conflict disclosures, recusal logs, annual 
 
 No individual may participate in or vote on their own compensation or on compensation involving related persons. All compensation decisions must be guided by independent comparability data and approved by disinterested Trustees.
 
-Any transaction involving an entity connected to an interested person is subject to heightened scrutiny, must demonstrably further BHGroupís charitable purposes, and must not result in private inurement or excessive benefit.
+Any transaction involving an entity connected to an interested person is subject to heightened scrutiny, must demonstrably further BHGroup‚Äôs charitable purposes, and must not result in private inurement or excessive benefit.
 
 ## 10. Annual Certification
 
@@ -161,7 +161,7 @@ All Trustees, officers, advisory members, ARC and CFAC participants, GECC member
 - Understand their obligations.
 - Will promptly disclose conflicts.
 - Will comply with recusal procedures.
-- Recognize BHGroupís 501(c)(3) responsibilities.
+- Recognize BHGroup‚Äôs 501(c)(3) responsibilities.
 
 Annual certification is a condition of continued service.
 
@@ -181,7 +181,7 @@ Findings may be presented to the Board for corrective action or policy refinemen
 
 When necessary, BHGroup may engage independent legal counsel, auditors, or compliance professionals to assist in conflict determinations, compensation analysis, policy review, or governance oversight.
 
-Use of experts supports but does not replace the Boardís fiduciary responsibility.
+Use of experts supports but does not replace the Board‚Äôs fiduciary responsibility.
 
 ---
 
@@ -238,3 +238,4 @@ This Markdown policy was prepared from the Bedrock Health Group Conflict of Inte
 | **Source P&P #** | gov-byl-v1.2 |
 | **Source Review Cycle** | Annual |
 | **Source Policy Area** | Governance & Compliance |
+
