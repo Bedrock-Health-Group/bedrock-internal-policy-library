@@ -185,13 +185,22 @@ Use of experts supports but does not replace the Board’s fiduciary responsibil
 
 ---
 
-## Approval and Acknowledgement Records
+## Approval and Publication Record
 
 Approval evidence, review history, and publication history are maintained through Bedrock Health Group's controlled GitHub review workflow, board records, and applicable acknowledgement records.
 
 This policy page does not serve as an individual signature or acknowledgement form.
 
 Where individual acknowledgement is required, Bedrock Health Group may maintain separate acknowledgement records through a designated acknowledgement process.
+
+| Field | Detail |
+|---|---|
+| **Approval Method** | Board adoption and GitHub-controlled publication workflow |
+| **Approving Authority** | Board of Trustees |
+| **Approval Evidence Location** | Board records and GitHub pull request / commit history |
+| **Publication Method** | MkDocs / GitHub Pages deployment |
+| **Publication Trigger** | Merge to main branch |
+| **Revision Tracking** | Git commit history and policy revision history |
 ---
 
 ## Revision History
@@ -211,5 +220,6 @@ This Markdown policy was prepared from the Bedrock Health Group Conflict of Inte
 | **Source P&P #** | gov-byl-v1.2 |
 | **Source Review Cycle** | Annual |
 | **Source Policy Area** | Governance & Compliance |
+
 
 

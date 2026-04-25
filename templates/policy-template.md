@@ -70,10 +70,19 @@ confidentiality_level: "Internal"
 
 ---
 
-## Approval Record
+## Approval and Publication Record
 
-| Approval Role | Name / Title | Date | Method |
-|---|---|---:|---|
-| Policy Owner |  | YYYY-MM-DD | GitHub Pull Request / Written Approval |
-| Executive Approval |  | YYYY-MM-DD | GitHub Pull Request / Written Approval |
-| Governing Approval |  | YYYY-MM-DD | Board Approval / Written Consent |
+Approval evidence, review history, and publication history are maintained through Bedrock Health Group's controlled GitHub review workflow.
+
+This policy page does not serve as an individual signature or acknowledgement form.
+
+Where individual acknowledgement is required, Bedrock Health Group may maintain separate acknowledgement records through a designated acknowledgement process.
+
+| Field | Detail |
+|---|---|
+| **Approval Method** | GitHub Pull Request Review / Board Record / Written Consent, as applicable |
+| **Approving Authority** | Approving Body |
+| **Approval Evidence Location** | GitHub pull request review history and related governance records |
+| **Publication Method** | MkDocs / GitHub Pages deployment |
+| **Publication Trigger** | Merge to main branch |
+| **Revision Tracking** | Git commit history and policy revision history |
