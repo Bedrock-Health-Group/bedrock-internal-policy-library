@@ -185,40 +185,13 @@ Use of experts supports but does not replace the Board’s fiduciary responsibil
 
 ---
 
-## Acknowledgment of Receipt and Agreement to Comply
+## Approval and Acknowledgement Records
 
-I acknowledge that I have received, read, and understand the Bedrock Health Group Conflict of Interest Policy.
+Approval evidence, review history, and publication history are maintained through Bedrock Health Group's controlled GitHub review workflow, board records, and applicable acknowledgement records.
 
-I agree to comply with all requirements set forth in the policy, including the duty to disclose any actual or potential conflicts of interest and to update such disclosures as circumstances change.
+This policy page does not serve as an individual signature or acknowledgement form.
 
-I understand that compliance with this policy is a condition of my service as a trustee, officer, or key individual within Bedrock Health Group.
-
-| Field | Entry |
-|---|---|
-| **Appointee Signature** |  |
-| **Date** |  |
-| **Printed Name** |  |
-
-## Board Chair Confirmation
-
-I certify that this Conflict-of-Interest Policy was formally presented to and adopted by the Board of Trustees of Bedrock Health Group.
-
-| Field | Entry |
-|---|---|
-| **Board Chair Signature** |  |
-| **Date** |  |
-| **Printed Name** | Mario Caire Jr. |
-
-## GECC Review
-
-_To be completed only if conflict-of-interest review is needed._
-
-| Field | Entry |
-|---|---|
-| **GECC Representative** |  |
-| **Signature** |  |
-| **Date** |  |
-
+Where individual acknowledgement is required, Bedrock Health Group may maintain separate acknowledgement records through a designated acknowledgement process.
 ---
 
 ## Revision History
@@ -238,4 +211,5 @@ This Markdown policy was prepared from the Bedrock Health Group Conflict of Inte
 | **Source P&P #** | gov-byl-v1.2 |
 | **Source Review Cycle** | Annual |
 | **Source Policy Area** | Governance & Compliance |
+
 
