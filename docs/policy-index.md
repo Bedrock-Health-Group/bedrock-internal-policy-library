@@ -1,6 +1,6 @@
 # Policy Index
 
-The following internal policies have been added to the Bedrock Health Group Internal Policy Library.
+The following policies have been added to the Bedrock Health Group Governance & Compliance Policy Library.
 
 | Policy ID | Policy Name | Category | Status | Effective Date | Owner |
 |---|---|---|---|---|---|
@@ -15,3 +15,4 @@ The following internal policies have been added to the Bedrock Health Group Inte
 | Approved | Policy has completed required review and approval. |
 | Under Review | Policy is being reviewed or revised. |
 | Retired | Policy is no longer active. |
+

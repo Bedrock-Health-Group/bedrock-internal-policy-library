@@ -1,5 +1,5 @@
-site_name: Bedrock Health Group Internal Policy Library
-site_description: Internal controlled policy library for Bedrock Health Group
+site_name: Bedrock Health Group Governance & Compliance Policy Library
+site_description: Controlled governance and compliance policy library for Bedrock Health Group
 
 theme:
   name: material
@@ -32,4 +32,5 @@ nav:
 
 extra_css:
   - assets/custom.css
+
 
