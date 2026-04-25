@@ -28,3 +28,5 @@ This library structure is being established. No policy should be treated as appr
 
 Policies should be drafted, reviewed, approved, published, revised, and retired through a controlled process.
 
+
+<!-- Workflow test: policy approval process enabled. -->
