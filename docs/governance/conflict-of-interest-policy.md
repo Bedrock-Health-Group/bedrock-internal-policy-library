@@ -10,7 +10,7 @@ policy_owner: "Governance & Compliance"
 approved_by: "Board of Trustees"
 approval_date: "2025-08-05"
 applies_to: "Trustees, officers, advisory members, committee members, key employees, contractors, subject-matter experts, and other individuals with governance, review, advisory, decision-making, or operational influence"
-confidentiality_level: "Internal"
+confidentiality_level: "Publicly Accessible Governance Record"
 source_document: "CONFLICT_OF_INTEREST.pdf"
 ---
 
@@ -30,7 +30,7 @@ source_document: "CONFLICT_OF_INTEREST.pdf"
 | **Review Cycle** | Annual |
 | **Policy Owner** | Governance & Compliance |
 | **Approved By** | Board of Trustees |
-| **Confidentiality Level** | Internal |
+| **Confidentiality Level** | Publicly Accessible Governance Record |
 
 ## Organization Information
 
@@ -220,6 +220,7 @@ This Markdown policy was prepared from the Bedrock Health Group Conflict of Inte
 | **Source P&P #** | gov-byl-v1.2 |
 | **Source Review Cycle** | Annual |
 | **Source Policy Area** | Governance & Compliance |
+
 
 
 
