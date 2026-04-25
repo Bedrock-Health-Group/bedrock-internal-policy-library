@@ -1,0 +1,37 @@
+# Bedrock Health Group Policy Library Ownership
+# These rules automatically request review when policy files are changed.
+
+# Global fallback owner
+* @bedrockhealthgroup
+
+# Governance policies
+/docs/governance/* @bedrockhealthgroup
+
+# Compliance program policies
+/docs/compliance-program/* @bedrockhealthgroup
+
+# Healthcare compliance policies
+/docs/healthcare-compliance/* @bedrockhealthgroup
+
+# Privacy and security policies
+/docs/privacy-security/* @bedrockhealthgroup
+
+# Operations policies
+/docs/operations/* @bedrockhealthgroup
+
+# Finance and administration policies
+/docs/finance-administration/* @bedrockhealthgroup
+
+# Human resources policies
+/docs/human-resources/* @bedrockhealthgroup
+
+# Vendor management policies
+/docs/vendor-management/* @bedrockhealthgroup
+
+# Training and acknowledgement materials
+/docs/training-acknowledgements/* @bedrockhealthgroup
+
+# Templates and site configuration
+/templates/* @bedrockhealthgroup
+/mkdocs.yml @bedrockhealthgroup
+/.github/* @bedrockhealthgroup
