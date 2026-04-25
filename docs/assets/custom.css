@@ -1,0 +1,74 @@
+:root {
+  --md-primary-fg-color: #006272;
+  --md-primary-fg-color--light: #d9e7ea;
+  --md-primary-fg-color--dark: #004a56;
+  --md-accent-fg-color: #006272;
+  --md-default-bg-color: #ffffff;
+}
+
+/* Keep the site clean and white-dominant */
+.md-main {
+  background-color: #ffffff;
+}
+
+.md-content {
+  background-color: #ffffff;
+}
+
+/* Use dark text for serious policy-library readability */
+.md-typeset {
+  color: #1f2d35;
+}
+
+/* Headings: serious, not overly colorful */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: #12324A;
+  font-weight: 700;
+}
+
+/* Teal only as accent */
+.md-typeset a {
+  color: #006272;
+}
+
+/* Tables: light secondary color only in header row */
+.md-typeset table:not([class]) {
+  font-size: 0.85rem;
+  background-color: #ffffff;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #d9e7ea;
+  color: #12324A;
+  font-weight: 700;
+}
+
+.md-typeset table:not([class]) td {
+  background-color: #ffffff;
+}
+
+/* Policy callouts: subtle, not loud */
+.policy-note {
+  border-left: 4px solid #006272;
+  background: #ffffff;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+}
+
+/* Status labels */
+.status-draft {
+  color: #8a5a00;
+  font-weight: 700;
+}
+
+.status-approved {
+  color: #006272;
+  font-weight: 700;
+}
+
+.status-retired {
+  color: #8a1f1f;
+  font-weight: 700;
+}

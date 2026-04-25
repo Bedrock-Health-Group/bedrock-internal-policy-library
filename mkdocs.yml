@@ -1,0 +1,35 @@
+site_name: Bedrock Health Group Internal Policy Library
+site_description: Internal controlled policy library for Bedrock Health Group
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Policy Index: policy-index.md
+  - Compliance Program: compliance-program/index.md
+  - Healthcare Compliance: healthcare-compliance/index.md
+  - Privacy & Security: privacy-security/index.md
+  - Governance:
+      - Overview: governance/index.md
+      - Conflict of Interest Policy: governance/conflict-of-interest-policy.md
+  - Operations: operations/index.md
+  - Finance & Administration: finance-administration/index.md
+  - Human Resources: human-resources/index.md
+  - Vendor Management: vendor-management/index.md
+  - Training & Acknowledgements: training-acknowledgements/index.md
+
+extra_css:
+  - assets/custom.css
+
