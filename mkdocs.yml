@@ -18,6 +18,8 @@ theme:
 nav:
   - Home: index.md
   - Policy Index: policy-index.md
+  - How to Use This Library: policy-library-guide.md
+  - Policy Lifecycle: policy-lifecycle.md
   - Governance:
       - Overview: governance/index.md
       - Conflict of Interest Policy: governance/conflict-of-interest-policy.md
@@ -33,3 +35,4 @@ extra_css:
 extra:
   generator: false
   homepage: https://www.bedrockhealthgroup.org
+
