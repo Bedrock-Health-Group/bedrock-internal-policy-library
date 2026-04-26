@@ -1,5 +1,5 @@
 site_name: Bedrock Health Group Governance & Compliance Policy Library
-site_description: Controlled governance and compliance policy library for Bedrock Health Group
+site_description: Public governance and compliance policy library for Bedrock Health Group
 
 theme:
   name: material
@@ -17,14 +17,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Policy Library:
-      - Policy Index: policy-index.md
-      - Compliance Program: compliance-program/index.md
-      - Healthcare Compliance: healthcare-compliance/index.md
-      - Finance & Administration: finance-administration/index.md
-      - Human Resources: human-resources/index.md
-      - Vendor Management: vendor-management/index.md
-      - Training & Acknowledgements: training-acknowledgements/index.md
+  - Policy Index: policy-index.md
   - Governance:
       - Overview: governance/index.md
       - Conflict of Interest Policy: governance/conflict-of-interest-policy.md
@@ -33,8 +26,6 @@ nav:
       - Privacy Policy: privacy-security/privacy-policy.md
       - Cookies Policy: privacy-security/cookies-policy.md
       - Email Security and Phishing Response Policy: privacy-security/email-security-and-phishing-response-policy.md
-  - Operations:
-      - Overview: operations/index.md
 
 extra_css:
   - assets/custom.css
@@ -42,7 +33,6 @@ extra_css:
 extra:
   generator: false
   homepage: https://www.bedrockhealthgroup.org
-
 
 markdown_extensions:
   - pymdownx.magiclink:
