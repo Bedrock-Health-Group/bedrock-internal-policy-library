@@ -126,3 +126,51 @@
   font-size: 0.78rem;
   color: #52636b;
 }
+
+/* Global Bedrock footer override */
+.bedrock-global-footer {
+  background-color: #006272;
+  color: #ffffff;
+  margin-top: 3rem;
+  border-top: 4px solid #d9e7ea;
+}
+
+.bedrock-global-footer-inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 1.4rem 1.2rem;
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+.bedrock-global-footer-brand {
+  font-size: 0.95rem;
+  margin-bottom: 0.45rem;
+}
+
+.bedrock-global-footer-text {
+  max-width: 760px;
+  margin-bottom: 0.7rem;
+}
+
+.bedrock-global-footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-bottom: 0.7rem;
+}
+
+.bedrock-global-footer a {
+  color: #ffffff;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.bedrock-global-footer a:hover {
+  color: #d9e7ea;
+}
+
+.bedrock-global-footer-small {
+  color: #d9e7ea;
+  font-size: 0.76rem;
+}
