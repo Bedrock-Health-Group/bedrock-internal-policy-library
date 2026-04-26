@@ -10,7 +10,7 @@ policy_owner: "Policy Owner"
 approved_by: "Approving Body"
 approval_date: "YYYY-MM-DD"
 applies_to: "Covered individuals and entities"
-confidentiality_level: "Internal"
+confidentiality_level: "Publicly Accessible Policy"
 ---
 
 # Policy Title
@@ -28,7 +28,7 @@ confidentiality_level: "Internal"
 | **Policy Owner** | Policy Owner |
 | **Approved By** | Approving Body |
 | **Applies To** | Covered individuals and entities |
-| **Confidentiality Level** | Internal |
+| **Confidentiality Level** | Publicly Accessible Policy |
 
 ---
 
@@ -86,3 +86,4 @@ Where individual acknowledgement is required, Bedrock Health Group may maintain 
 | **Publication Method** | MkDocs / GitHub Pages deployment |
 | **Publication Trigger** | Merge to main branch |
 | **Revision Tracking** | Git commit history and policy revision history |
+
