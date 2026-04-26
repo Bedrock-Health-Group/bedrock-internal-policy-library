@@ -11,7 +11,7 @@ approved_by: "Governance & Compliance"
 approval_date: "2026-04-25"
 applies_to: "Employees, officers, trustees, contractors, volunteers, advisors, committee members, vendors, and other authorized users of Bedrock Health Group email, Microsoft 365, Teams, websites, portals, devices, and related communication systems"
 confidentiality_level: "Publicly Accessible Policy"
-source_document: "https://support.microsoft.com/en-US/security/protect-yourself-from-phishing"
+source_document: "Bedrock Health Group policy library template and general cybersecurity awareness principles"
 ---
 
 # Email Security and Phishing Response Policy
@@ -32,7 +32,7 @@ source_document: "https://support.microsoft.com/en-US/security/protect-yourself-
 | **Policy Owner** | Privacy & Security |
 | **Approved By** | Governance & Compliance |
 | **Confidentiality Level** | Publicly Accessible Policy |
-| **Source** | Microsoft Support: Protect yourself from phishing |
+| **Source** | Bedrock Health Group policy library template and general cybersecurity awareness principles |
 
 ---
 
@@ -214,10 +214,8 @@ Where individual acknowledgement is required, Bedrock Health Group may maintain 
 
 ## Source Record
 
-This Markdown policy was prepared using Bedrock Health Group's policy library template and Microsoft phishing awareness guidance.
+This Markdown policy was prepared using Bedrock Health Group's policy library template and general cybersecurity awareness principles for phishing identification, reporting, and response.
 
 | Source Field | Detail |
 |---|---|
-| **Source Name** | Microsoft Support: Protect yourself from phishing |
-| **Source URL** | https://support.microsoft.com/en-US/security/protect-yourself-from-phishing |
-| **Source Policy Area** | Privacy & Security |
+| **Source Name** | Bedrock Health Group policy library template and cybersecurity awareness reference materials |`r`n| **Source Policy Area** | Privacy & Security |
