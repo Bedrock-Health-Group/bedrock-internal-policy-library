@@ -55,7 +55,7 @@ Policies should be drafted, reviewed, approved, published, revised, and retired 
   </div>
 
   <div class="bedrock-footer-small">
-    501(c)(3) Nonprofit • Greater New Orleans Area • Serving healthcare organizations nationwide<br>
-    © 2025 Bedrock Health Group. All Rights Reserved.
+    501(c)(3) Nonprofit â€¢ Greater New Orleans Area â€¢ Serving healthcare organizations nationwide<br>
+    Â© 2025 Bedrock Health Group. All Rights Reserved.
   </div>
 </div>
