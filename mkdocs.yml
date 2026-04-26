@@ -38,3 +38,7 @@ nav:
 
 extra_css:
   - assets/custom.css
+
+extra:
+  generator: false
+  homepage: https://www.bedrockhealthgroup.org

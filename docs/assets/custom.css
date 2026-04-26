@@ -72,3 +72,57 @@
   color: #8a1f1f;
   font-weight: 700;
 }
+
+/* Bedrock policy library footer */
+.bedrock-footer {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  border-top: 4px solid #006272;
+  border-radius: 10px;
+  background: #ffffff;
+  border-left: 1px solid #d9e7ea;
+  border-right: 1px solid #d9e7ea;
+  border-bottom: 1px solid #d9e7ea;
+  color: #1f2d35;
+}
+
+.bedrock-footer-title {
+  color: #006272;
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.bedrock-footer-subtitle {
+  color: #12324A;
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.bedrock-footer p {
+  margin: 0.5rem 0 1rem 0;
+}
+
+.bedrock-footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.bedrock-footer a {
+  color: #006272;
+  text-decoration: none;
+}
+
+.bedrock-footer a:hover {
+  text-decoration: underline;
+}
+
+.bedrock-footer-small {
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #d9e7ea;
+  font-size: 0.78rem;
+  color: #52636b;
+}
