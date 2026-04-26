@@ -42,7 +42,7 @@ Cookies help support website functionality, security, analytics, user experience
 
 ## 2. What Cookies Are
 
-Cookies are small text files placed on a user’s device when visiting a website. Cookies may help a website recognize a user’s device, remember preferences, support secure sessions, or collect usage information.
+Cookies are small text files placed on a userâ€™s device when visiting a website. Cookies may help a website recognize a userâ€™s device, remember preferences, support secure sessions, or collect usage information.
 
 Similar technologies may include pixels, tags, local storage, session storage, and analytics tools.
 
@@ -89,7 +89,7 @@ Updates will be posted with a revised Effective Date when applicable.
 
 For questions about this Cookies Policy, contact:
 
-**Bedrock Health Group – Privacy Office**
+**Bedrock Health Group â€“ Privacy Office**
 
 Email: compliance@bedrockhealthgroup.org
 

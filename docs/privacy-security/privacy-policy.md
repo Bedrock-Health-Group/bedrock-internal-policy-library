@@ -126,7 +126,7 @@ We may update this Privacy Policy to reflect legal, technical, or organizational
 
 For privacy questions or requests, contact:
 
-**Bedrock Health Group – Privacy Office**
+**Bedrock Health Group â€“ Privacy Office**
 
 Email: compliance@bedrockhealthgroup.org
 
