@@ -104,3 +104,29 @@
   min-width: 720px;
 }
 
+
+/* Fix policy tables shrinking inside the wrapper */
+.md-typeset .md-typeset__scrollwrap {
+  overflow-x: auto;
+}
+
+.md-typeset .md-typeset__table {
+  width: 100%;
+}
+
+.md-typeset .md-typeset__table table,
+.md-typeset table:not([class]) {
+  width: 100% !important;
+  min-width: 100% !important;
+  table-layout: auto;
+  border-collapse: collapse;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: normal;
+  vertical-align: top;
+  padding: 0.65rem 0.8rem;
+}
