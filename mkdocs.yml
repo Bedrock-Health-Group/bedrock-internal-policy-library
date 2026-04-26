@@ -33,9 +33,3 @@ extra_css:
 extra:
   generator: false
   homepage: https://www.bedrockhealthgroup.org
-
-markdown_extensions:
-  - pymdownx.magiclink:
-      hide_protocol: false
-      fuzzy_links: true
-      fuzzy_email: true
