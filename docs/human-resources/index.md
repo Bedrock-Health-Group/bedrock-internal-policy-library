@@ -1,5 +1,5 @@
 # Human Resources
 
-This section will contain approved internal human resources policies.
+This section contains or will contain approved Bedrock Health Group human resources policies.
 
-No approved internal policies have been published in this section yet.
+No approved Bedrock Health Group policies have been published in this section yet.

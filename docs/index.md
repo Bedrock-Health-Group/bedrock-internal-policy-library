@@ -10,7 +10,7 @@ The purpose of this library is to provide a centralized location for approved po
 
 ## Current Status
 
-This library structure is being established. No policy should be treated as approved or operational unless it has gone through the required review and approval process.
+This library is maintained through Bedrock Health Group's controlled GitHub review and publication workflow. Policies listed in the Policy Index reflect the current public policy library records.
 
 ## Library Areas
 
