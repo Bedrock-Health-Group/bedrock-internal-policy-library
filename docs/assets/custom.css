@@ -33,21 +33,6 @@
   color: #006272;
 }
 
-/* Tables: light secondary color only in header row */
-.md-typeset table:not([class]) {
-  font-size: 0.85rem;
-  background-color: #ffffff;
-}
-
-.md-typeset table:not([class]) th {
-  background-color: #d9e7ea;
-  color: #12324A;
-  font-weight: 700;
-}
-
-.md-typeset table:not([class]) td {
-  background-color: #ffffff;
-}
 
 /* Policy callouts: subtle, not loud */
 .policy-note {
@@ -72,12 +57,21 @@
   color: #8a1f1f;
   font-weight: 700;
 }
-
-/* Improved policy table readability */
-.md-typeset table:not([class]) {
+/* Policy table layout */
+.md-typeset .md-typeset__table {
+  display: block;
   width: 100%;
+  overflow-x: auto;
+}
+
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+  max-width: 100%;
   table-layout: auto;
   border-collapse: collapse;
+  font-size: 0.85rem;
+  background-color: #ffffff;
 }
 
 .md-typeset table:not([class]) th,
@@ -90,43 +84,11 @@
 }
 
 .md-typeset table:not([class]) th {
-  min-width: 120px;
+  background-color: #d9e7ea;
+  color: #12324A;
+  font-weight: 700;
 }
 
-/* Allow wide tables to scroll instead of crushing text */
-.md-typeset .md-typeset__table {
-  display: block;
-  width: 100%;
-  overflow-x: auto;
-}
-
-.md-typeset .md-typeset__table table {
-  min-width: 720px;
-}
-
-
-/* Fix policy tables shrinking inside the wrapper */
-.md-typeset .md-typeset__scrollwrap {
-  overflow-x: auto;
-}
-
-.md-typeset .md-typeset__table {
-  width: 100%;
-}
-
-.md-typeset .md-typeset__table table,
-.md-typeset table:not([class]) {
-  width: 100% !important;
-  min-width: 100% !important;
-  table-layout: auto;
-  border-collapse: collapse;
-}
-
-.md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  white-space: normal;
-  overflow-wrap: break-word;
-  word-break: normal;
-  vertical-align: top;
-  padding: 0.65rem 0.8rem;
+  background-color: #ffffff;
 }
