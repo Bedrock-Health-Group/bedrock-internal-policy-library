@@ -83,7 +83,7 @@
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   white-space: normal;
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
   word-break: normal;
   vertical-align: top;
   padding: 0.65rem 0.8rem;
@@ -103,3 +103,4 @@
 .md-typeset .md-typeset__table table {
   min-width: 720px;
 }
+
