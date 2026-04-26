@@ -1,5 +1,5 @@
 # Operations
 
-This section will contain approved internal operations policies.
+This section contains or will contain approved Bedrock Health Group operations policies.
 
-No approved internal policies have been published in this section yet.
+No approved Bedrock Health Group policies have been published in this section yet.

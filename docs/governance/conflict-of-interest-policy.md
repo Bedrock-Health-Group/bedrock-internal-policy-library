@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Conflict of Interest Policy"
 policy_id: "gov-byl-v1.2"
 version: "1.2"
@@ -201,7 +201,6 @@ Where individual acknowledgement is required, Bedrock Health Group may maintain 
 | **Publication Method** | MkDocs / GitHub Pages deployment |
 | **Publication Trigger** | Merge to main branch |
 | **Revision Tracking** | Git commit history and policy revision history |
----
 
 ## Revision History
 

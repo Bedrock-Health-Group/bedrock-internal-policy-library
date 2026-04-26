@@ -1,5 +1,5 @@
 # Training & Acknowledgements
 
-This section will contain approved internal training materials, acknowledgements, and related policy records.
+This section contains or will contain approved Bedrock Health Group training materials, acknowledgements, and related policy records.
 
-No approved internal materials have been published in this section yet.
+No approved Bedrock Health Group materials have been published in this section yet.
