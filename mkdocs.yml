@@ -20,7 +20,10 @@ nav:
   - Policy Index: policy-index.md
   - Compliance Program: compliance-program/index.md
   - Healthcare Compliance: healthcare-compliance/index.md
-  - Privacy & Security: privacy-security/index.md
+  - Privacy & Security:
+      - Overview: privacy-security/index.md
+      - Privacy Policy: privacy-security/privacy-policy.md
+      - Cookies Policy: privacy-security/cookies-policy.md
   - Governance:
       - Overview: governance/index.md
       - Conflict of Interest Policy: governance/conflict-of-interest-policy.md
@@ -32,5 +35,6 @@ nav:
 
 extra_css:
   - assets/custom.css
+
 
 
