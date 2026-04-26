@@ -3,7 +3,6 @@ site_description: Controlled governance and compliance policy library for Bedroc
 
 theme:
   name: material
-  custom_dir: overrides
   palette:
     - scheme: default
       primary: teal
